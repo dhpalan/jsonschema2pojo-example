@@ -5,5 +5,5 @@
 3. Include Jsr303 Annotations.
 
 ## Input and Output
-- JSON files are here [src\main\resources\schema](src\main\resources\schema)
-- Generated sources are [target\generated-sources\jsonschema2pojo](target\generated-sources\jsonschema2pojo)
+- JSON files are here [src/main/resources/schema](src/main/resources/schema)
+- Generated sources are [target/generated-sources/jsonschema2pojo](target/generated-sources/jsonschema2pojo)
