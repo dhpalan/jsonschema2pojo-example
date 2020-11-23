@@ -3,7 +3,7 @@ Generate Plain Old Java Objects from JSON-Schema using jsonschema2pojo.
 
 ## Input and Output
 - The project https://github.com/dhpalan/jsonschema2pojo-ignoreunknown-annotator is a dependency for this project
-- The dependency is used by <configuration><customAnnotator>xxx</customAnnotator></configuration>
+- The dependency is used by `<configuration><customAnnotator>xxx</customAnnotator></configuration>`
 
 - JSON files (Input) are placed here [src/main/resources/schema](src/main/resources/schema)
 - On eclipse, choose Run As -> Maven generate-sources to successfully compile and generate sources
